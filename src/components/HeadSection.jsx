@@ -8,7 +8,7 @@ function HeadSection() {
           <figure>
             <div className="min-h-screen relative md:min-h-screen">
               <img
-                className="hidden md:block md:absolute -left-1/4 top-11 z-0 w-full md:w-9/12 md:-left-1/4 md:-top-1/4 "
+                className="hidden md:block md:absolute -left-1/4 top-11 z-0 w-full md:w-9/12 md:-left-54 md:-top-1 "
                 src="https://www.certosoftware.com/images/tmp/shapes/bg-circle.svg"
                 alt=""
               />
